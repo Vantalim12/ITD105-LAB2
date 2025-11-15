@@ -24,6 +24,7 @@ st.set_page_config(
 # =============================================================================
 st.title('🔬 ML Model Deployment for Lab 2')
 st.markdown('### ITD105 - Big Data Analytics: Resampling Techniques & Performance Metrics')
+st.markdown('**Team Members:** Barnett, Gumora, Quilantang, Tadoy, Ventic')
 st.markdown('---')
 
 # =============================================================================
