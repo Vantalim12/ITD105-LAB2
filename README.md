@@ -6,6 +6,10 @@
 
 ---
 
+## Access our website here:
+
+https://gumora-etal-itd105-lab2.streamlit.app/
+
 ## 📋 Project Overview
 
 This lab exercise focuses on implementing and comparing different machine learning models using various resampling techniques and performance metrics. The project consists of two main parts: a classification task and a regression task.
